@@ -1,0 +1,55 @@
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\bin\Debug\Zhaoxi.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\bin\Debug\Zhaoxi.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\MeterPlate.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls_MarkupCompile.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls_MarkupCompile.lref
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\MeterPlate.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.g.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.Properties.Resources.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csproj.GenerateResource.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csprojAssemblyReference.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\WaitFor.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\WaitFor.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\SkeletonScreen.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\SkeletonScreen.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\bin\Debug\Zhaoxi.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\bin\Debug\Zhaoxi.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csprojAssemblyReference.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\MeterPlate.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\SkeletonScreen.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\WaitFor.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls_MarkupCompile.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls_MarkupCompile.lref
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\MeterPlate.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\SkeletonScreen.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\WaitFor.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.g.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.Properties.Resources.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csproj.GenerateResource.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\Public\20200910 动画实战\Demo\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\bin\Debug\Zhaoxi.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\bin\Debug\Zhaoxi.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\LineChart.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\MeterPlate.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\SkeletonScreen.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\WaitFor.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls_MarkupCompile.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls_MarkupCompile.lref
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\LineChart.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\MeterPlate.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\SkeletonScreen.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\WaitFor.baml
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.g.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.Properties.Resources.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csproj.GenerateResource.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\录播视频\src\Zhaoxi.ComputerMonitor\Zhaoxi.Controls\obj\Debug\Zhaoxi.Controls.pdb
